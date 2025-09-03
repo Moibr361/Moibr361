@@ -31,7 +31,7 @@
 ---
 
 ### 🚀 Projects
-- 🟢 [Hello World Java](https://github.com/Moibr361/myproject/tree/master/BANKPROJECT) – first simple program  
+- 🟢 [Bank Project ](https://github.com/Moibr361/myproject/tree/master/BANKPROJECT) – first simple program  
 - 🟢 [Calculator CLI](https://github.com/Mohamed-Ibrahim/java-calculator) – console-based calculator  
 - 🟡 [Library Management System](https://github.com/Mohamed-Ibrahim/library-system) – training project for OOP and file handling  
 - 🔜 [Spring Boot REST API](https://github.com/Mohamed-Ibrahim/spring-api) – first API with Spring Boot
