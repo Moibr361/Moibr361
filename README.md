@@ -22,7 +22,7 @@
 ---
 
 ### 📚 Learning Plan
-- ✅ Basics: variables, loops, conditionals  
+- ✅ Basics: variables, loops, conditions  
 - ✅ OOP: classes, inheritance, interfaces  
 - 🔁 Problem Solving (LeetCode / Codeforces)  
 - 🔜 Spring Boot & Databases  
@@ -31,10 +31,10 @@
 ---
 
 ### 🚀 Projects
-- 🟢 [Bank Project ](https://github.com/Moibr361/myproject/tree/master/BANKPROJECT) – first simple program  
-- 🟢 [Calculator CLI](https://github.com/Mohamed-Ibrahim/java-calculator) – console-based calculator  
-- 🟡 [Library Management System](https://github.com/Mohamed-Ibrahim/library-system) – training project for OOP and file handling  
-- 🔜 [Spring Boot REST API](https://github.com/Mohamed-Ibrahim/spring-api) – first API with Spring Boot
+- 🟢 [Bank Project ](https://github.com/Moibr361/myproject/tree/master/BANKPROJECT) – first simple program with OOP concepts  
+- 🟢 [Python Simple Projects](https://github.com/Moibr361/PythonProjects) – simple programs 
+- 🟡 [Area And Perimeter Of Shapes System](https://github.com/Moibr361/myProject/tree/master/AreaAndPerimeterOfShapes) – training project for OOP and file handling  
+  
 
 ---
 
